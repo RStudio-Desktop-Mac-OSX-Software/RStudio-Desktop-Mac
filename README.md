@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/50318/l/rstudio-logo.png?v=1671434805" width="200" alt="RStudio Desktop application icon"><br>
+<img src="https://img.utdstc.com/icon/c5e/91d/c5e91df98431dbc67ad525d192036d915c6c3935a26989189493846fb49cbfb0:200" width="200" alt="RStudio Desktop application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/rstudio-desktop">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
